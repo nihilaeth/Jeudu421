@@ -1,0 +1,16 @@
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\JeuDu421.exe
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\JeuDu421.deps.json
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\JeuDu421.runtimeconfig.json
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\JeuDu421.runtimeconfig.dev.json
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\JeuDu421.dll
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\ref\JeuDu421.dll
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\bin\Debug\net5.0\JeuDu421.pdb
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.csproj.AssemblyReference.cache
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.AssemblyInfoInputs.cache
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.AssemblyInfo.cs
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.dll
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\ref\JeuDu421.dll
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.pdb
+C:\Users\Alienware\Downloads\Cours\JeuDu421\JeuDu421\obj\Debug\net5.0\JeuDu421.genruntimeconfig.cache
